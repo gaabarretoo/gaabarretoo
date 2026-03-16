@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate Pacman
 
 on:
   schedule:
@@ -10,19 +10,13 @@ permissions:
 
 jobs:
   build:
-    name: Generate snake animation
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - name: Generate Pacman
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: loypuur
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
