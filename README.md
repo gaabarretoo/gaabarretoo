@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Gabriely Barreto I am a Full Stack developer </h2>
+<h2 align="left">Hi 👋! My name is Gabriely Barreto </h2>
+<h2 align="left">Web Developer focused on building modern and responsive interfaces 💻 </h2>
 
 ###
 
@@ -40,11 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
 ###
