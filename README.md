@@ -7,12 +7,6 @@
 
 ###
 
-<div align="light">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaabarretoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/gaabarretoo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
